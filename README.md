@@ -15,9 +15,19 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 7. [BitBucket](https://bitbucket.org/)
 8. [Mozilla](https://www.mozilla.org/)
 
-## Building applications ⛏
+## Building web applications ⛏
 
 ## Security 🔒
+
+By default, Django prevents most common security mistakes:
+
+* [XSS](https://docs.djangoproject.com/en/2.1/topics/security/#cross-site-scripting-xss-protection) (cross-site scripting) protection — Django template system by default escapes variables, unless they are explicitly marked as safe.
+
+* [CSRF](https://docs.djangoproject.com/en/2.1/topics/security/#cross-site-request-forgery-csrf-protection) (cross site request forgery) protection — easy to turn on globally, guarantees that forms (POST requests) are sent from your own site.
+
+* [SQL](https://docs.djangoproject.com/en/2.1/topics/security/#sql-injection-protection) injection protection — Django uses built-in ORM, thus there is no risk of SQL injection (raw queries are possible, but by no means something that a beginner would need to use).
+
+* [PBKDF2](https://docs.djangoproject.com/en/2.1/topics/auth/passwords/#how-django-stores-passwords) password hashing - Django uses the PBKDF2 algorithm with a SHA256 hash, a password stretching mechanism recommended by NIST. It’s quite secure, requiring massive amounts of computing time to break.
 
 ## Packages 📦
 
