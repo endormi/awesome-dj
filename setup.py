@@ -2,7 +2,6 @@ from setuptools import setup
 
 setup(
     name="django",
-    version="1.0.0",
-    description="Reasons why django is awesome",
+    description="Reasons why django is awesome for web development",
     author="endormi (https://github.com/endormi)",
 )
