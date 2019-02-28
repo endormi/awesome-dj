@@ -33,6 +33,8 @@ By default, Django prevents most common security mistakes:
 
 ## Packages 📦
 
+Like the Python community in general, the Django community contributes useful packages and utilities for use by the wider world. Searching for “django” on PyPI finds over 3,000 packages available for use. This is on top of Django’s “batteries included” mentality. The framework has already included most things you’re going to want.
+
 ## Documentation 📑
 
 ## Solving issues 🔎
