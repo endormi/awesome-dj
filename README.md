@@ -42,6 +42,8 @@ A list of awesome packages (not in a specific order):
 3. [django-filter](https://pypi.org/project/django-filter/)
 4. [django-rest-framework](https://www.django-rest-framework.org/)
 5. [django-tables2](https://pypi.org/project/django-tables2/)
+6. [pillow](https://pillow.readthedocs.io/en/latest/)
+7. [httpie](https://httpie.org/)
 
 ## Documentation 📑
 
