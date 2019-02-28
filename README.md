@@ -35,6 +35,14 @@ By default, Django prevents most common security mistakes:
 
 Like the Python community in general, the Django community contributes useful packages and utilities for use by the wider world. Searching for “django” on PyPI finds over 3,000 packages available for use. This is on top of Django’s “batteries included” mentality. The framework has already included most things you’re going to want.
 
+A list of awesome packages (not in a specific order):
+
+1. [django-allauth](https://pypi.org/project/django-allauth/)
+2. [django-contact-form](https://pypi.org/project/django-contact-form/)
+3. [django-filter](https://pypi.org/project/django-filter/)
+4. [django-rest-framework](https://www.django-rest-framework.org/)
+5. [django-tables2](https://pypi.org/project/django-tables2/)
+
 ## Documentation 📑
 
 When it first came out, one of the features that set Django apart was how good the documentation was. Many other frameworks just used an alphabetical list of modules and all the attributes and methods. This is great for quick reference when you just can’t remember if it’s `array_sort()` or `sort_array()`. It doesn’t help, though, when you’re first learning the framework.
