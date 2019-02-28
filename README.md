@@ -37,4 +37,8 @@ Like the Python community in general, the Django community contributes useful pa
 
 ## Documentation 📑
 
+When it first came out, one of the features that set Django apart was how good the documentation was. Many other frameworks just used an alphabetical list of modules and all the attributes and methods. This is great for quick reference when you just can’t remember if it’s `array_sort()` or `sort_array()`. It doesn’t help, though, when you’re first learning the framework.
+
+Django’s documentation quality may not be unique any more. It’s definitely still one of the best examples of open source documentation in the wild. And keeping these docs to this quality level is still a concern for Django’s developers. Docs are a first-class citizen in the Django world.
+
 ## Solving issues 🔎
