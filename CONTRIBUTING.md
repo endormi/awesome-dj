@@ -17,6 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Commit your changes: `git commit -am 'Added django security'`
 - Push to the branch: `git push origin my-new-branch`
 - Submit a pull request
+- Add your username and link to [authors](https://github.com/endormi/django/blob/master/AUTHORS.md)
 
 (or manually edit the readme file in github and create a pull request)
 
