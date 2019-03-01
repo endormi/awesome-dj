@@ -39,11 +39,14 @@ A list of awesome packages (not in a specific order):
 
 1. [django-allauth](https://pypi.org/project/django-allauth/)
 2. [django-contact-form](https://pypi.org/project/django-contact-form/)
-3. [django-filter](https://pypi.org/project/django-filter/)
-4. [django-rest-framework](https://www.django-rest-framework.org/)
-5. [django-tables2](https://pypi.org/project/django-tables2/)
-6. [pillow](https://pillow.readthedocs.io/en/latest/)
-7. [httpie](https://httpie.org/)
+3. [django-compressor](https://django-compressor.readthedocs.io/en/stable/)
+4. [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
+5. [django-filter](https://pypi.org/project/django-filter/)
+6. [django-rest-framework](https://www.django-rest-framework.org/)
+7. [django-tables2](https://pypi.org/project/django-tables2/)
+8. [django-taggit](https://django-taggit.readthedocs.io/en/latest/)
+9. [pillow](https://pillow.readthedocs.io/en/latest/)
+10. [httpie](https://httpie.org/)
 
 ## Documentation 📑
 
