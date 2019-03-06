@@ -27,6 +27,8 @@ Django has adopted Python’s `“batteries included”` approach — the framew
 
 You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over 4,000 packages for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
 
+Django's structure mainly consists of:
+
 1. The Model Layer
 2. The Views Layer
 3. The Template Layer 
