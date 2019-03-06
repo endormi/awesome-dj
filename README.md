@@ -17,7 +17,15 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 7. [BitBucket](https://bitbucket.org/)
 8. [Mozilla](https://www.mozilla.org/)
 
+The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are readily available on the web and in books. The framework continues to add significant new functionality such as `database migrations` with each release.
+
 ## Building web applications ⛏
+
+Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and `"pluggability"` of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
+
+Django has adopted Python’s `“batteries included”` approach — the framework has everything necessary to develop a fully fledged application out of the box.
+
+You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over 4,000 packages for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
 
 ## Security 🔒
 
