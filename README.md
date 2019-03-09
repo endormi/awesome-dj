@@ -37,6 +37,10 @@ Django's structure mainly consists of:
 6. The Admin
 7. Forms
 
+### Scalable
+
+Another area in which Django stands out as being ideal for many developers is scalability. When you need an app that can grow in depth and complexity to any scale and is capable of handling as many visitors and/or transactions as demanded, Django shines. At its core, Django is just a series of components of Python, wired up and ready to go. Since these components are separate entities, they’re not dependent on each other. You can pick and choose, unplug and replace them as and when your site requires. This means you can build it up to whatever level of performance you need your site to be capable of, at any time, without compromising the functionality of the website.
+
 ## Security 🔒
 
 By default, Django prevents most common security mistakes:
@@ -68,8 +72,12 @@ A list of awesome packages (not in a specific order):
 
 ## Documentation 📑
 
-When it first came out, one of the features that set Django apart was how good the documentation was. Many other frameworks just used an alphabetical list of modules and all the attributes and methods. This is great for quick reference when you just can’t remember if it’s `array_sort()` or `sort_array()`. It doesn’t help, though, when you’re first learning the framework.
+Django’s official documentation is more than enough for developers. You can easily find solutions if you get stuck. On top of that, Stack Overflow is flooded with questions & answers related to Django.
 
-Django’s documentation quality may not be unique any more. It’s definitely still one of the best examples of open source documentation in the wild.
+## Open Source Community 🗃
 
-## Solving issues 🔎
+Being open source and insanely popular, Django has created a helpful community. I’m assuming you’re aware of the advantages of open source software. Django has the same advantages.
+
+So far we’ve seen that Django created a lot of libraries of its own, so it might surprise you that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing — it does. They have a complete section dedicated to testing in docs. Following the principle “Don’t reinvent the wheel”, it’d be pointless to develop a testing library when Python itself provides a great one itself. Django just plays nice with it. It also works well with other popular third-party libraries like pytest.
+
+Django is the perfect balance between performance, architecture, development effort, security and scalability.
