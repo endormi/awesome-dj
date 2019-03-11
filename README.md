@@ -72,6 +72,8 @@ A list of awesome packages (not in a specific order):
 11. [django-sorting-field](https://pypi.org/project/django-sorting-field/)
 12. [django-environ](https://django-environ.readthedocs.io/en/latest/)
 13. [django-fsm](https://github.com/viewflow/django-fsm)
+14. [django-registration](https://django-registration.readthedocs.io/en/3.0/)
+15. [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
 
 ## Documentation 📑
 
