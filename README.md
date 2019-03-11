@@ -69,6 +69,9 @@ A list of awesome packages (not in a specific order):
 8. [django-taggit](https://django-taggit.readthedocs.io/en/latest/)
 9. [pillow](https://pillow.readthedocs.io/en/latest/)
 10. [httpie](https://httpie.org/)
+11. [django-sorting-field](https://pypi.org/project/django-sorting-field/)
+12. [django-environ](https://django-environ.readthedocs.io/en/latest/)
+13. [django-fsm](https://github.com/viewflow/django-fsm)
 
 ## Documentation 📑
 
