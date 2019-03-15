@@ -86,3 +86,25 @@ Being open source and insanely popular, Django has created a helpful community. 
 So far we’ve seen that Django created a lot of libraries of its own, so it might surprise you that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing — it does. They have a complete section dedicated to testing in docs. Following the principle “Don’t reinvent the wheel”, it’d be pointless to develop a testing library when Python itself provides a great one itself. Django just plays nice with it. It also works well with other popular third-party libraries like pytest.
 
 Django is the perfect balance between performance, architecture, development effort, security and scalability.
+
+## Installing Django
+
+1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated. If it’s outdated, you’ll know because installation won’t work.
+
+2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide. They also allow installing packages without administrator privileges.
+
+3. After you’ve created and activated a virtual environment (you do not need a virtual environment, but it is highly suggested).
+
+**On windows and Linux**
+
+Enter the command:
+
+```
+pip install django
+```
+
+> You can also download it from GitHub directly
+
+```
+git clone https://github.com/django/django.git
+```
