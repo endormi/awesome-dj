@@ -59,21 +59,21 @@ Like the Python community in general, the Django community contributes useful pa
 
 A list of awesome packages (not in a specific order):
 
-1. [django-allauth](https://pypi.org/project/django-allauth/)
-2. [django-contact-form](https://pypi.org/project/django-contact-form/)
-3. [django-compressor](https://django-compressor.readthedocs.io/en/stable/)
-4. [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
-5. [django-filter](https://pypi.org/project/django-filter/)
-6. [django-rest-framework](https://www.django-rest-framework.org/)
-7. [django-tables2](https://pypi.org/project/django-tables2/)
-8. [django-taggit](https://django-taggit.readthedocs.io/en/latest/)
-9. [pillow](https://pillow.readthedocs.io/en/latest/)
-10. [httpie](https://httpie.org/)
-11. [django-sorting-field](https://pypi.org/project/django-sorting-field/)
-12. [django-environ](https://django-environ.readthedocs.io/en/latest/)
-13. [django-fsm](https://github.com/viewflow/django-fsm)
-14. [django-registration](https://django-registration.readthedocs.io/en/3.0/)
-15. [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
+- [django-allauth](https://pypi.org/project/django-allauth/)
+- [django-contact-form](https://pypi.org/project/django-contact-form/)
+- [django-compressor](https://django-compressor.readthedocs.io/en/stable/)
+- [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
+- [django-filter](https://pypi.org/project/django-filter/)
+- [django-rest-framework](https://www.django-rest-framework.org/)
+- [django-tables2](https://pypi.org/project/django-tables2/)
+- [django-taggit](https://django-taggit.readthedocs.io/en/latest/)
+- [pillow](https://pillow.readthedocs.io/en/latest/)
+- [httpie](https://httpie.org/)
+- [django-sorting-field](https://pypi.org/project/django-sorting-field/)
+- [django-environ](https://django-environ.readthedocs.io/en/latest/)
+- [django-fsm](https://github.com/viewflow/django-fsm)
+- [django-registration](https://django-registration.readthedocs.io/en/3.0/)
+- [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
 
 ## Documentation 📑
 
