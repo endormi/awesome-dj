@@ -87,7 +87,7 @@ So far we’ve seen that Django created a lot of libraries of its own, so it mig
 
 Django is the perfect balance between performance, architecture, development effort, security and scalability.
 
-## Installing Django
+## Installing Django 🌩
 
 1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated. If it’s outdated, you’ll know because installation won’t work.
 
