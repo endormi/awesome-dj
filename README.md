@@ -41,6 +41,10 @@ Django's structure mainly consists of:
 
 Another area in which Django stands out as being ideal for many developers is scalability. When you need an app that can grow in depth and complexity to any scale and is capable of handling as many visitors and/or transactions as demanded, Django shines. At its core, Django is just a series of components of Python, wired up and ready to go. Since these components are separate entities, they’re not dependent on each other. You can pick and choose, unplug and replace them as and when your site requires. This means you can build it up to whatever level of performance you need your site to be capable of, at any time, without compromising the functionality of the website.
 
+### Validation
+
+Django follows the `DRY principle`. You have a Model and it has some fields with restrictions and rules e.g. `integer field`, `string field` with length constraint etc. You are going to take input from the users and want to save it in the Model and therefore need to validate the user inputs. You don’t have to write same fields and rules again! You just need to create a `ModelForm` class and it’ll use the field and rules from the Model class. Obviously you can override the rules, include additional fields or rules, exclude a field with a couple of lines.
+
 ## Security 🔒
 
 By default, Django prevents most common security mistakes:
