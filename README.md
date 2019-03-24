@@ -19,6 +19,8 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 
 The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are readily available on the web and in books. The framework continues to add significant new functionality such as `database migrations` with each release.
 
+**Django Architecture**
+
 [![django](https://user-images.githubusercontent.com/39559256/54877175-9d379c00-4e23-11e9-9a8e-08477fdb0a19.png)](https://subscription.packtpub.com/book/web_development/9781788831345/1/ch01lvl1sec12/how-does-django-work)
 
 ## Building web applications ⛏
