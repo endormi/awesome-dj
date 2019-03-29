@@ -1,6 +1,6 @@
 # django
 
-> 📋 List of reasons why django is awesome for web development
+> 📋 Reasons why django is awesome for web development
 
 Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md)
 
