@@ -1,3 +1,3 @@
 # PR Request
 
-Explain shortly what this PR is.
+Explain shortly what this PR does.
