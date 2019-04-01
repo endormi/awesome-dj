@@ -1,5 +1,7 @@
 # django
 
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
+
 > 📋 Reasons why django is awesome for web development
 
 Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md)
