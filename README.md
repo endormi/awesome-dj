@@ -1,4 +1,4 @@
-## Python version support
+> Python version support
 
 Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
 
