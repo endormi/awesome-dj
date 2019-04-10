@@ -14,6 +14,8 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 6. [Dropbox](https://www.dropbox.com/)
 7. [BitBucket](https://bitbucket.org/)
 8. [Mozilla](https://www.mozilla.org/)
+9. [National Geographic](https://www.nationalgeographic.com/)
+10. [Pinterest](https://www.pinterest.com/)
 
 The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are readily available on the web and in books. The framework continues to add significant new functionality such as `database migrations` with each release.
 
