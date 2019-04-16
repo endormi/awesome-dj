@@ -5,6 +5,7 @@ Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. 
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
+[![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
 
 Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md)
 
