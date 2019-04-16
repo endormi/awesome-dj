@@ -12,16 +12,16 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 To give you an idea what the capabilities of Django are, here is a list of big companies that use Django.
 
-1. [Disqus](https://disqus.com/)
-2. [Instagram](https://www.instagram.com/)
-3. [Spotify](https://www.spotify.com/)
-4. [YouTube](https://www.youtube.com/)
-5. [The Washington Post](https://www.washingtonpost.com/)
-6. [Dropbox](https://www.dropbox.com/)
-7. [BitBucket](https://bitbucket.org/)
-8. [Mozilla](https://www.mozilla.org/)
-9. [National Geographic](https://www.nationalgeographic.com/)
-10. [Pinterest](https://www.pinterest.com/)
+- [Disqus](https://disqus.com/)
+- [Instagram](https://www.instagram.com/)
+- [Spotify](https://www.spotify.com/)
+- [YouTube](https://www.youtube.com/)
+- [The Washington Post](https://www.washingtonpost.com/)
+- [Dropbox](https://www.dropbox.com/)
+- [BitBucket](https://bitbucket.org/)
+- [Mozilla](https://www.mozilla.org/)
+- [National Geographic](https://www.nationalgeographic.com/)
+- [Pinterest](https://www.pinterest.com/)
 
 The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are readily available on the web and in books. The framework continues to add significant new functionality such as `database migrations` with each release.
 
