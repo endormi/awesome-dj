@@ -1,3 +1,5 @@
+This repository is specifically meant for those who are looking in to using Django, since this gives a good amount of information about Django and it's capabilities.
+
 > Python version support
 
 Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
