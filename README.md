@@ -1,4 +1,4 @@
-This repository is specifically meant to those who are looking in to using Django, since this gives a good amount of information about Django and it's capabilities.
+This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
 
 > Python version support
 
