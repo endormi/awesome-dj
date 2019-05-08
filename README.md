@@ -1,3 +1,5 @@
+[![django](https://user-images.githubusercontent.com/39559256/57359863-658d7500-7181-11e9-9c7e-de037cda2b54.jpg)](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
+
 This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
 
 > Python version support
@@ -125,3 +127,9 @@ pip install django
 ```
 git clone https://github.com/django/django.git
 ```
+
+## Articles
+
+* [Uses of Django](https://www.educba.com/uses-of-django/)
+
+* [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
