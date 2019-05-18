@@ -132,3 +132,4 @@ git clone https://github.com/django/django.git
 
 - [Uses of Django](https://www.educba.com/uses-of-django/)
 - [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
+- [Top 10 Django mistakes](https://www.toptal.com/django/django-top-10-mistakes)
