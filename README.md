@@ -1,4 +1,5 @@
-[![django](https://user-images.githubusercontent.com/39559256/57359863-658d7500-7181-11e9-9c7e-de037cda2b54.jpg)](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
+[![django](https://user-images.githubusercontent.com/39559256/58042289-f3cf0700-7b42-11e9-972a-0535fbe404af.jpg)](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
+
 
 This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
 
@@ -133,3 +134,4 @@ git clone https://github.com/django/django.git
 - [Uses of Django](https://www.educba.com/uses-of-django/)
 - [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
 - [Top 10 Django mistakes](https://www.toptal.com/django/django-top-10-mistakes)
+- [How to make a blog with Django](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
