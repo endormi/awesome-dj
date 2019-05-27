@@ -2,8 +2,6 @@
 
 This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
 
-- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/bs_boilerplate)
-
 > Python version support
 
 Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
@@ -129,6 +127,8 @@ pip install django
 ```
 git clone https://github.com/django/django.git
 ```
+
+- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/bs_boilerplate)
 
 ## Articles
 
