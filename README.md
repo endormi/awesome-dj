@@ -1,7 +1,8 @@
 [![django](https://user-images.githubusercontent.com/39559256/58042289-f3cf0700-7b42-11e9-972a-0535fbe404af.jpg)](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
 
-
 This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
+
+- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/bs_boilerplate)
 
 > Python version support
 
