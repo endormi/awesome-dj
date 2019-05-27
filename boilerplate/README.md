@@ -10,7 +10,7 @@ Clone this repository:
 https://github.com/endormi/django.git
 ```
 
-`cd` into bs_boilerplate
+`cd` into boilerplate
 
 Install requirements:
 

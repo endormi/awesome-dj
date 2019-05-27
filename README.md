@@ -128,7 +128,7 @@ pip install django
 git clone https://github.com/django/django.git
 ```
 
-- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/bs_boilerplate)
+- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate)
 
 ## Articles
 
