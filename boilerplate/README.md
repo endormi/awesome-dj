@@ -2,6 +2,8 @@
 
 Boilerplate for Django using Bootstrap 4.3.1
 
+> Easy-to-use Boilerplate. Includes two HTML templates base.html and index.html.
+
 ## Installation instructions
 
 Clone this repository:
