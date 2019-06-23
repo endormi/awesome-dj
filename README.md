@@ -93,6 +93,8 @@ A list of awesome packages (not in a specific order):
 - [django-fsm](https://github.com/viewflow/django-fsm)
 - [django-registration](https://django-registration.readthedocs.io/en/3.0/)
 - [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
+- [django-favorite](https://pypi.org/project/django-favorite/)
+
 
 ## Documentation 📑
 
