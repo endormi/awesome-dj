@@ -95,7 +95,6 @@ A list of awesome packages (not in a specific order):
 - [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
 - [django-favorite](https://pypi.org/project/django-favorite/)
 
-
 ## Documentation 📑
 
 Django’s official documentation is more than enough for developers. You can easily find solutions if you get stuck. On top of that, Stack Overflow is flooded with questions & answers related to Django.
