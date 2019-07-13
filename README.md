@@ -52,7 +52,7 @@ Django's structure mainly consists of:
 6. The Admin
 7. Forms
 
-### Scalable
+### Scalability
 
 Another area in which Django stands out as being ideal for many developers is scalability. When you need an app that can grow in depth and complexity to any scale and is capable of handling as many visitors and/or transactions as demanded, Django shines. At its core, Django is just a series of components of Python, wired up and ready to go. Since these components are separate entities, they’re not dependent on each other. You can pick and choose, unplug and replace them as and when your site requires. This means you can build it up to whatever level of performance you need your site to be capable of, at any time, without compromising the functionality of the website.
 
