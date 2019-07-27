@@ -1,6 +1,8 @@
 [![django](https://user-images.githubusercontent.com/39559256/58042289-f3cf0700-7b42-11e9-972a-0535fbe404af.jpg)](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
 
-This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
+This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities. 
+
+**Disclaimer**: I have also included a [bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate) for this project.
 
 > Python version support
 
@@ -119,17 +121,15 @@ Django is the perfect balance between performance, architecture, development eff
 
 Enter the command:
 
-```
+```sh
 pip install django
 ```
 
 > You can also download it from GitHub directly
 
-```
+```sh
 git clone https://github.com/django/django.git
 ```
-
-- [Bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate)
 
 ## Articles
 
