@@ -1,10 +1,10 @@
 [![django](https://user-images.githubusercontent.com/39559256/58042289-f3cf0700-7b42-11e9-972a-0535fbe404af.jpg)](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
 
-This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities. 
+This repository is specifically meant to those who are looking into using Django, since this gives a good amount of information about Django and it's capabilities.
 
 **Disclaimer**: I have also included a [bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate) for this project.
 
-> Python version support
+> Python version support:
 
 Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
 
