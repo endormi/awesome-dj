@@ -1,6 +1,6 @@
 # Django-Bootstrap-Boilerplate
 
-Boilerplate for Django (2.1.6) using Bootstrap 4.3.1
+Boilerplate for Django (2.1.7) using Bootstrap 4.3.1
 
 > Easy-to-use Boilerplate. Includes three HTML templates `base.html`, `index.html` and `about.html`.
 
