@@ -13,11 +13,11 @@ Since newer versions of Python are often faster, have more features, and are bet
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
 [![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
 
-Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md)
+Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md).
 
-Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
-To give you an idea what the capabilities of Django are, here is a list of big companies that use Django.
+To give you an idea what the capabilities of Django are, here is a list of big companies that use Django:
 
 - [Disqus](https://disqus.com/)
 - [Instagram](https://www.instagram.com/)
