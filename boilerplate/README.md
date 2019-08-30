@@ -32,6 +32,38 @@ Run the server:
 py manage.py runserver
 ```
 
+If you wish to rename folders you need to rename boilerplate and starter in `.py` files:
+
+manage.py
+
+```python
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
+```
+
+urls.py
+
+```python
+from starter import views
+
+urlpatterns = [
+    path('', include('starter.urls')),
+    path('admin/', admin.site.urls),
+]
+```
+
+wsgi.py
+
+```python
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
+```
+
+apps.py 
+
+```python
+class StarterConfig(AppConfig):
+    name = 'starter'
+```
+
 ### More documentation coming soon..
 
 Looking for contributors to help with adding more content and better documentation.
