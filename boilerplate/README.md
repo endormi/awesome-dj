@@ -40,6 +40,14 @@ py manage.py runserver
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
 ```
 
+`settings.py`
+
+```python
+INSTALLED_APPS = [
+    'starter', 
+]
+```
+
 `urls.py`
 
 ```python
@@ -47,7 +55,6 @@ from starter import views
 
 urlpatterns = [
     path('', include('starter.urls')),
-    path('admin/', admin.site.urls),
 ]
 ```
 
@@ -62,14 +69,6 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
 ```python
 class StarterConfig(AppConfig):
     name = 'starter'
-```
-
-`settings.py`
-
-```python
-INSTALLED_APPS = [
-    'starter', 
-]
 ```
 
 ### More documentation coming soon..
