@@ -2,7 +2,7 @@
 
 Boilerplate for Django (2.1.7) using Bootstrap 4.3.1
 
-> Easy-to-use Boilerplate. Includes three HTML templates `base.html`, `index.html` and `about.html`.
+> Easy-to-use Boilerplate. Includes three HTML templates `base.html`, `index.html` and `about.html`. Database used for this project is `sqlite3`.
 
 ## Installation instructions
 
@@ -32,19 +32,19 @@ Run the server:
 py manage.py runserver
 ```
 
-**If you wish to rename folders you need to rename boilerplate and starter in `.py` files:**
+**To rename folders you need to rename boilerplate and starter in `.py` files:**
 
 `manage.py`
 
 ```python
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
+os.environ.setdefault('boilerplate.settings')
 ```
 
 `settings.py`
 
 ```python
 INSTALLED_APPS = [
-    'starter', 
+    'starter',
 ]
 ```
 
@@ -61,10 +61,10 @@ urlpatterns = [
 `wsgi.py`
 
 ```python
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'boilerplate.settings')
+os.environ.setdefault('boilerplate.settings')
 ```
 
-`apps.py` 
+`apps.py`
 
 ```python
 class StarterConfig(AppConfig):
