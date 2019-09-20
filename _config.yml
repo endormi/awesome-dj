@@ -6,7 +6,7 @@ plugins:
 title: dj
 description: "📄 List of reasons why django is awesome for web development"
 
-github_username:  endormi
+github_username: endormi
 
 author:
   name: Endormi

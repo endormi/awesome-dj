@@ -4,6 +4,8 @@ This repository is specifically meant to those who are looking into using Django
 
 **Disclaimer**: I have also included a [bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate) for this project.
 
+Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md).
+
 > Python version support:
 
 Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
@@ -12,8 +14,6 @@ Since newer versions of Python are often faster, have more features, and are bet
 
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
 [![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
-
-Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md).
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
