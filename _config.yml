@@ -3,8 +3,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
  
-title: "📄 List of reasons why django is awesome for web development"
-description: "By @endormi"
+title: dj
+description: "📄 List of reasons why django is awesome for web development"
+
+github_username:  endormi
 
 author:
   name: Endormi
