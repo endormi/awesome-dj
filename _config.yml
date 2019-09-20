@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+ 
+title: "📄 List of reasons why django is awesome for web development"
+description: "By @endormi"
+
+author:
+  name: Endormi
+  twitter: _endormi
