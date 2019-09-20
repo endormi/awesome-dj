@@ -36,6 +36,18 @@ The Django project's stability, performance and community have grown tremendousl
 
 [![django](https://user-images.githubusercontent.com/39559256/54877175-9d379c00-4e23-11e9-9a8e-08477fdb0a19.png)](https://subscription.packtpub.com/book/web_development/9781788831345/1/ch01lvl1sec12/how-does-django-work)
 
+Page content: 
+
+- [Building Web Applications](#building-web-applications-)
+    - [Scalability](#scalability)
+    - [Validation](https://github.com/endormi/dj#validation)
+- [Security](#security-)
+- [Packages](#packages-)
+- [Documentation](#documentation-)
+- [Open Source Community](#open-source-community-)
+- [Installing Django](#installing-django-)
+- [Articles](#articles)
+
 ## Building web applications ⛏
 
 Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
