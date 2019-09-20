@@ -15,6 +15,18 @@ Since newer versions of Python are often faster, have more features, and are bet
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
 [![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
 
+### Page content: 
+
+- [Building Web Applications](#building-web-applications-)
+    - [Scalability](#scalability)
+    - [Validation](https://github.com/endormi/dj#validation)
+- [Security](#security-)
+- [Packages](#packages-)
+- [Documentation](#documentation-)
+- [Open Source Community](#open-source-community-)
+- [Installing Django](#installing-django-)
+- [Articles](#articles)
+
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 To give you an idea what the capabilities of Django are, here is a list of big companies that use Django:
@@ -35,18 +47,6 @@ The Django project's stability, performance and community have grown tremendousl
 **Django's Architecture**
 
 [![django](https://user-images.githubusercontent.com/39559256/54877175-9d379c00-4e23-11e9-9a8e-08477fdb0a19.png)](https://subscription.packtpub.com/book/web_development/9781788831345/1/ch01lvl1sec12/how-does-django-work)
-
-Page content: 
-
-- [Building Web Applications](#building-web-applications-)
-    - [Scalability](#scalability)
-    - [Validation](https://github.com/endormi/dj#validation)
-- [Security](#security-)
-- [Packages](#packages-)
-- [Documentation](#documentation-)
-- [Open Source Community](#open-source-community-)
-- [Installing Django](#installing-django-)
-- [Articles](#articles)
 
 ## Building web applications ⛏
 
