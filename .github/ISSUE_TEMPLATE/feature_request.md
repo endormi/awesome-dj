@@ -2,10 +2,15 @@
 name: Feature request
 about: Suggest an idea
 title: ''
-labels: 'enhancement'
+labels: enhancement, needs-triage
 assignees: ''
 
 ---
+
+<!--
+  Remember to add django kanban board project underneath labels,
+  it's not automated
+-->
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

@@ -3,10 +3,14 @@ name: Bug report
 about: Report a bug
 title: ''
 labels: 'needs-triage'
-projects: 'django kanban board'
 assignees: ''
 
 ---
+
+<!--
+  Remember to add django kanban board project underneath labels,
+  it's not automated
+-->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
