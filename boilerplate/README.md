@@ -1,8 +1,8 @@
 # Django-Bootstrap-Boilerplate
 
-Boilerplate for Django (2.1.7) using Bootstrap 4.3.1
+Boilerplate for Django (**2.1.7**) using Bootstrap **4.3.1**
 
-> Easy-to-use Boilerplate. Includes three HTML templates `base.html`, `index.html` and `about.html`. Database used for this project is `sqlite3`.
+> Easy-to-use Boilerplate. Including three **HTML** templates `base.html`, `index.html` and `about.html`. The db used is `sqlite3`.
 
 ## Installation instructions
 
@@ -16,19 +16,19 @@ https://github.com/endormi/django.git
 
 Install requirements:
 
-```python
+```sh
 pip install -r requirements.txt
 ```
 
 Migrate:
 
-```python
+```sh
 py manage.py migrate
 ```
 
 Run the server:
 
-```python
+```sh
 py manage.py runserver
 ```
 
