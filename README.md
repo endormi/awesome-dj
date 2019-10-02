@@ -15,7 +15,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
 [![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
 
-### Page content: 
+### Page content:
 
 - [Building Web Applications](#building-web-applications-)
     - [Scalability](#scalability)
@@ -108,6 +108,7 @@ A list of awesome packages (not in a specific order):
 - [django-registration](https://django-registration.readthedocs.io/en/3.0/)
 - [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
 - [django-favorite](https://pypi.org/project/django-favorite/)
+- [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/index.html)
 
 ## Documentation 📑
 
