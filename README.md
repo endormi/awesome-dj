@@ -109,6 +109,9 @@ A list of awesome packages (not in a specific order):
 - [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/)
 - [django-favorite](https://pypi.org/project/django-favorite/)
 - [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/index.html)
+- [django-redis](http://niwinz.github.io/django-redis/latest/)
+- [django-model-utils](https://django-model-utils.readthedocs.io/en/latest/)
+- [django-extensions](https://django-extensions.readthedocs.io/en/latest/)
 
 ## Documentation 📑
 
