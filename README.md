@@ -93,6 +93,7 @@ Like the Python community in general, the Django community contributes useful pa
 A list of awesome packages (not in a specific order):
 
 - [django-allauth](https://pypi.org/project/django-allauth/)
+- [django-channels](https://channels.readthedocs.io/en/latest/)
 - [django-contact-form](https://pypi.org/project/django-contact-form/)
 - [django-compressor](https://django-compressor.readthedocs.io/en/stable/)
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
@@ -150,7 +151,7 @@ git clone https://github.com/django/django.git
 Enter the command:
 
 ```sh
-sudo pip install django
+pip install django
 ```
 
 ## Articles
