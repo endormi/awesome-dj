@@ -100,8 +100,6 @@ A list of awesome packages (not in a specific order):
 - [django-rest-framework](https://www.django-rest-framework.org/)
 - [django-tables2](https://pypi.org/project/django-tables2/)
 - [django-taggit](https://django-taggit.readthedocs.io/en/latest/)
-- [pillow](https://pillow.readthedocs.io/en/latest/)
-- [httpie](https://httpie.org/)
 - [django-sorting-field](https://pypi.org/project/django-sorting-field/)
 - [django-environ](https://django-environ.readthedocs.io/en/latest/)
 - [django-fsm](https://github.com/viewflow/django-fsm)
