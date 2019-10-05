@@ -93,6 +93,7 @@ Like the Python community in general, the Django community contributes useful pa
 A list of awesome packages (not in a specific order):
 
 - [django-allauth](https://pypi.org/project/django-allauth/)
+- [django-channels](https://channels.readthedocs.io/en/latest/)
 - [django-contact-form](https://pypi.org/project/django-contact-form/)
 - [django-compressor](https://django-compressor.readthedocs.io/en/stable/)
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
@@ -131,8 +132,6 @@ Django is the perfect balance between performance, architecture, development eff
 
 3. After you’ve created and activated a virtual environment (you do not need a virtual environment, but it is highly suggested).
 
-**On Windows**:
-
 Enter the command:
 
 ```sh
@@ -143,14 +142,6 @@ pip install django
 
 ```sh
 git clone https://github.com/django/django.git
-```
-
-**On Mac and Linux**:
-
-Enter the command:
-
-```sh
-sudo pip install django
 ```
 
 ## Articles
