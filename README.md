@@ -132,8 +132,6 @@ Django is the perfect balance between performance, architecture, development eff
 
 3. After you’ve created and activated a virtual environment (you do not need a virtual environment, but it is highly suggested).
 
-**On Windows**:
-
 Enter the command:
 
 ```sh
@@ -144,14 +142,6 @@ pip install django
 
 ```sh
 git clone https://github.com/django/django.git
-```
-
-**On Mac and Linux**:
-
-Enter the command:
-
-```sh
-pip install django
 ```
 
 ## Articles
