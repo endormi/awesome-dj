@@ -150,4 +150,6 @@ git clone https://github.com/django/django.git
 - [Uses of Django](https://www.educba.com/uses-of-django/)
 - [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
 - [Top 10 Django mistakes](https://www.toptal.com/django/django-top-10-mistakes)
+- [Creating custom template tags in Django](https://www.pythoncircle.com/post/42/creating-custom-template-tags-in-django/)
+- [How to host Django app on Pythonanywhere for Free](https://www.pythoncircle.com/post/18/how-to-host-django-app-on-pythonanywhere-for-free/)
 - [How to make a blog with Django](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
