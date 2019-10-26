@@ -146,8 +146,8 @@ git clone https://github.com/django/django.git
 
 ## Articles
 
+- [Django vs. Flask in 2019: Which Framework to Choose](https://testdriven.io/blog/django-vs-flask/)
 - [Uses of Django](https://www.educba.com/uses-of-django/)
 - [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
 - [Top 10 Django mistakes](https://www.toptal.com/django/django-top-10-mistakes)
 - [How to make a blog with Django](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
-- [Django vs. Flask in 2019: Which Framework to Choose](https://testdriven.io/blog/django-vs-flask/)
