@@ -90,7 +90,7 @@ By default, Django prevents most common security mistakes:
 
 Like the Python community in general, the Django community contributes useful packages and utilities for use by the wider world. Searching for `“django”` on `PyPI` finds over 3,000 packages available for use. The framework has already included most things you’re going to want.
 
-A list of awesome packages (not in a specific order):
+A list of awesome django packages (not in a specific order):
 
 - [django-allauth](https://pypi.org/project/django-allauth/)
 - [django-channels](https://channels.readthedocs.io/en/latest/)
