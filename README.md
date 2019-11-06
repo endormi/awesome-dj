@@ -12,9 +12,6 @@ Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. 
 
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/tox.svg)](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django)
-[![GitHub contributors](https://img.shields.io/github/contributors/endormi/django.svg)](https://github.com/endormi/django/blob/master/AUTHORS.md)
-
 ### Page content:
 
 - [Building Web Applications](#building-web-applications-)
@@ -114,7 +111,7 @@ A list of awesome django packages (not in a specific order):
 
 ## Documentation 📑
 
-Django’s official documentation is more than enough for developers. You can easily find solutions if you get stuck. On top of that, Stack Overflow is flooded with questions & answers related to Django.
+Django’s [official documentation](https://docs.djangoproject.com/en/2.2/) is more than enough for developers. You can easily find solutions if you get stuck. On top of that, Stack Overflow is flooded with questions & answers related to Django.
 
 ## Open Source Community 🗃
 
