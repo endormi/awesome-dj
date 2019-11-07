@@ -17,7 +17,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 - [Building Web Applications](#building-web-applications-)
     - [Scalability](#scalability)
     - [Validation](https://github.com/endormi/dj#validation)
-    - [Security](#security-)
+    - [Security](#security)
 - [Packages](#packages-)
 - [Documentation](#documentation-)
 - [Open Source Community](#open-source-community-)
