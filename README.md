@@ -17,7 +17,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 - [Building Web Applications](#building-web-applications-)
     - [Scalability](#scalability)
     - [Validation](https://github.com/endormi/dj#validation)
-- [Security](#security-)
+    - [Security](#security-)
 - [Packages](#packages-)
 - [Documentation](#documentation-)
 - [Open Source Community](#open-source-community-)
@@ -71,7 +71,7 @@ Another area in which Django stands out as being ideal for many developers is sc
 
 Django follows the `DRY principle`. You have a Model and it has some fields with restrictions and rules e.g. `integer field`, `string field` with length constraint etc. You are going to take input from the users and want to save it in the Model and therefore need to validate the user inputs. You don’t have to write same fields and rules again! You just need to create a `ModelForm` class and it’ll use the field and rules from the Model class. Obviously you can override the rules, include additional fields or rules, exclude a field with a couple of lines.
 
-## Security 🔒
+### Security
 
 By default, Django prevents most common security mistakes:
 
