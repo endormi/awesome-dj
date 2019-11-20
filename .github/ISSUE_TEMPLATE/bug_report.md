@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug
 title: ''
 labels: 'needs-triage'
-assignees: ''
+assignees: endormi
 
 ---
 

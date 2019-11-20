@@ -32,7 +32,7 @@ Run the server:
 py manage.py runserver
 ```
 
-**To rename folders you need to rename boilerplate and starter in `.py` files:**
+**To rename folders, you need to rename boilerplate and starter in `.py` files:**
 
 `manage.py`
 
