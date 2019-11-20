@@ -1,6 +1,6 @@
-# Django-Bootstrap-Boilerplate [![Travis (.org) branch](https://img.shields.io/travis/endormi/awesome-dj/travis-test-bp)](https://travis-ci.org/endormi/awesome-dj)
+# Django-Bootstrap-Boilerplate [![Travis (.org) branch](https://img.shields.io/travis/endormi/awesome-dj/travis-test-bp)](https://travis-ci.org/endormi/awesome-dj) [![Django Version](https://img.shields.io/badge/django-2.1.9-brightgreen.svg?)](https://www.djangoproject.com/)
 
-Boilerplate for Django (**2.1.7**) using Bootstrap **4.3.1**
+Boilerplate for Django using Bootstrap **4.3.1**
 
 > Easy-to-use Boilerplate. Including four **HTML** templates `base.html`, `index.html`, `about.html` and `contact.html`. The db used is `sqlite3`.
 
