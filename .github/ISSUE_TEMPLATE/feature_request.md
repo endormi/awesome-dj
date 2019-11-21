@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea
 title: ''
-labels: enhancement, needs-triage
+labels: needs-triage
 assignees: endormi
 
 ---
