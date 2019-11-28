@@ -150,3 +150,7 @@ git clone https://github.com/django/django.git
 - [Creating custom template tags in Django](https://www.pythoncircle.com/post/42/creating-custom-template-tags-in-django/)
 - [How to host Django app on Pythonanywhere for Free](https://www.pythoncircle.com/post/18/how-to-host-django-app-on-pythonanywhere-for-free/)
 - [How to make a blog with Django](https://www.skysilk.com/blog/2017/how-to-make-a-blog-with-django/)
+
+## Thanks
+
+Thanks to these awesome [contributors](https://github.com/endormi/awesome-dj/blob/master/AUTHORS.md#contributors) for helping with this project.
