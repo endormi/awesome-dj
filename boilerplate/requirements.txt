@@ -1,1 +1,1 @@
-django>=2.1.7
+django>=3.0
