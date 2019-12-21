@@ -109,6 +109,8 @@ A list of awesome django packages (not in a specific order):
 - [django-redis](http://niwinz.github.io/django-redis/latest/)
 - [django-model-utils](https://django-model-utils.readthedocs.io/en/latest/)
 - [django-extensions](https://django-extensions.readthedocs.io/en/latest/)
+- [django-cors-headers](https://pypi.org/project/django-cors-headers/)
+- [django-sendsms](https://pypi.org/project/django-sendsms/)
 
 ## Documentation 📑
 
