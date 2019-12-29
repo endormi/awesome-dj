@@ -23,6 +23,8 @@ Please ensure your pull request adheres to the following guidelines:
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 
+> When adding django-packages, preferably use the `readthedocs` link and if it does not exist use `PyPI`
+
 ### For updating/fixing/adding django bootstrap code:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
