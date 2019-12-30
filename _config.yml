@@ -10,5 +10,12 @@ description: "📄 List of reasons why django is awesome for web development"
 
 author:
   name: Endormi
-  github_username: endormi
-  twitter: _endormi
+  github: endormi
+  
+exclude:
+  - .github
+  - boilerplate
+  - AUTHORS.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE
