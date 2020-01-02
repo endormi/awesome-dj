@@ -8,7 +8,7 @@ Before making a commit read [contribution guidelines](https://github.com/endormi
 
 Python version support:
 
-Python 3 is recommended. Django 1.11 is the last version to support Python 2.7. Support for Python 2.7 and Django 1.11 ends in 2020.
+Python 3 is recommended.
 
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
