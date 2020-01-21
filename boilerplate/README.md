@@ -4,6 +4,8 @@ Boilerplate for Django using Bootstrap **4.3.1**
 
 > Easy-to-use Boilerplate. Including four **HTML** templates `base.html`, `index.html`, `about.html` and `contact.html`. The db used is `sqlite3`.
 
+> For using [PostgreSQL DB](https://github.com/endormi/awesome-dj/blob/master/boilerplate/postgresql.md)
+
 ## Installation instructions
 
 Clone this repository:
