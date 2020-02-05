@@ -50,7 +50,7 @@ The Django project's stability, performance and community have grown tremendousl
 
 Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
 
-Django has adopted Python’s `“batteries included”` approach — the framework has everything necessary to develop a fully fledged application out of the box.
+Django has adopted Python’s `“batteries included”` approach, the framework has everything necessary to develop a fully fledged application out of the box.
 
 You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over 4,000 packages for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
 
@@ -76,13 +76,15 @@ Django follows the `DRY principle`. You have a Model and it has some fields with
 
 By default, Django prevents most common security mistakes:
 
-* [XSS (cross-site scripting) protection](https://docs.djangoproject.com/en/3.0/topics/security/#cross-site-scripting-xss-protection) — Django template system by default escapes variables, unless they are explicitly marked as safe.
+* [XSS (cross-site scripting) protection](https://docs.djangoproject.com/en/3.0/topics/security/#cross-site-scripting-xss-protection) - Django template system by default escapes variables, unless they are explicitly marked as safe.
 
-* [CSRF (cross site request forgery) protection](https://docs.djangoproject.com/en/3.0/topics/security/#cross-site-request-forgery-csrf-protection) — easy to turn on globally, guarantees that forms (POST requests) are sent from your own site.
+* [CSRF (cross site request forgery) protection](https://docs.djangoproject.com/en/3.0/topics/security/#cross-site-request-forgery-csrf-protection) - Django has built-in protection against most types of CSRF attacks, providing you have [enabled and used it](https://docs.djangoproject.com/en/3.0/ref/csrf/#using-csrf) where appropriate.
 
-* [SQL injection protection](https://docs.djangoproject.com/en/3.0/topics/security/#sql-injection-protection) — Django uses built-in ORM, thus there is no risk of SQL injection (raw queries are possible, but by no means something that a beginner would need to use).
+* [SQL injection protection](https://docs.djangoproject.com/en/3.0/topics/security/#sql-injection-protection) - Django uses built-in ORM, thus there is no risk of SQL injection (raw queries are possible, but by no means something that a beginner would need to use).
 
 * [PBKDF2 password hashing](https://docs.djangoproject.com/en/3.0/topics/auth/passwords/#how-django-stores-passwords) - Django uses the PBKDF2 algorithm with a SHA256 hash, a password stretching mechanism recommended by NIST. It’s quite secure, requiring massive amounts of computing time to break.
+
+More on [django security}(https://docs.djangoproject.com/en/3.0/topics/security/).
 
 ## Packages 📦
 
@@ -120,7 +122,7 @@ Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is m
 
 Being open source and insanely popular, Django has created a helpful community. I’m assuming you’re aware of the advantages of open source software. Django has the same advantages.
 
-So far we’ve seen that Django created a lot of libraries of its own, so it might surprise you that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing — it does. They have a complete section dedicated to testing in docs. Following the principle “Don’t reinvent the wheel”, it’d be pointless to develop a testing library when Python itself provides a great one itself. Django just plays nice with it. It also works well with other popular third-party libraries like pytest.
+So far we’ve seen that Django created a lot of libraries of its own, so it might surprise you that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very useful to develop a testing library.
 
 Django is the perfect balance between performance, architecture, development effort, security and scalability.
 
