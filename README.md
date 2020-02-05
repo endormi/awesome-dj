@@ -84,7 +84,7 @@ By default, Django prevents most common security mistakes:
 
 * [PBKDF2 password hashing](https://docs.djangoproject.com/en/3.0/topics/auth/passwords/#how-django-stores-passwords) - Django uses the PBKDF2 algorithm with a SHA256 hash, a password stretching mechanism recommended by NIST. It’s quite secure, requiring massive amounts of computing time to break.
 
-More on [django security}(https://docs.djangoproject.com/en/3.0/topics/security/).
+More on [django security](https://docs.djangoproject.com/en/3.0/topics/security/).
 
 ## Packages 📦
 
