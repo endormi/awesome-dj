@@ -1,0 +1,5 @@
+install:
+    - npm install -g write-good
+
+script:
+    - write-good README.md --thereIs
