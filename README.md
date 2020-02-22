@@ -6,10 +6,6 @@ This repository is specifically meant to those who are looking into using Django
 
 Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md).
 
-Python version support:
-
-Python 3 is recommended.
-
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
 ### Page content:
@@ -25,7 +21,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 - [Articles](#articles)
 - [Thanks](#thanks)
 
-Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
 To give you an idea what the capabilities of Django are, here is a list of big companies that use Django:
 
@@ -40,7 +36,7 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 - [National Geographic](https://www.nationalgeographic.com/)
 - [Pinterest](https://www.pinterest.com/)
 
-The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are readily available on the web and in books. The framework continues to add significant new functionality such as `database migrations` with each release.
+The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are available on the web and in books. The framework continues to add significant new functionality with each release.
 
 **Django's Architecture**
 
@@ -48,11 +44,11 @@ The Django project's stability, performance and community have grown tremendousl
 
 ## Building web applications ⛏
 
-Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.
+Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative CRUD (create, read, update and delete) interface that is generated dynamically through introspection and configured via admin models.
 
 Django has adopted Python’s `“batteries included”` approach, the framework has everything necessary to develop a fully fledged application out of the box.
 
-You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over 4,000 packages for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
+You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over **4,000 packages** for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
 
 Django's structure mainly consists of:
 
@@ -70,7 +66,7 @@ Another area in which Django stands out as being ideal for many developers is sc
 
 ### Validation
 
-Django follows the `DRY principle`. You have a Model and it has some fields with restrictions and rules e.g. `integer field`, `string field` with length constraint etc. You are going to take input from the users and want to save it in the Model and therefore need to validate the user inputs. You don’t have to write same fields and rules again! You just need to create a `ModelForm` class and it’ll use the field and rules from the Model class. Obviously you can override the rules, include additional fields or rules, exclude a field with a couple of lines.
+Django follows the `DRY principle`. You have a Model and it has some fields with restrictions and rules e.g. `integer field`, `string field` with length constraint etc. You are going to take input from the users and want to save it in the Model and therefore need to validate the user inputs. You don’t have to write same fields and rules again. You just need to create a `ModelForm` class and it’ll use the field and rules from the Model class.
 
 ## Security 🔒
 
@@ -88,9 +84,9 @@ More on [django security](https://docs.djangoproject.com/en/3.0/topics/security/
 
 ## Packages 📦
 
-Like the Python community in general, the Django community contributes useful packages and utilities for use by the wider world. Searching for `“django”` on `PyPI` finds over 3,000 packages available for use. The framework has already included most things you’re going to want.
+Like the Python community in general, the Django community contributes useful packages for use by the wider world. Searching for `“django”` on `PyPI` finds over 4,000 packages available for use. The framework has already included most things you’re going to want.
 
-A list of awesome django packages (not in a specific order):
+A list of awesome Django packages (not in a specific order):
 
 - [django-allauth](https://pypi.org/project/django-allauth/)
 - [django-channels](https://channels.readthedocs.io/en/latest/)
@@ -116,13 +112,13 @@ A list of awesome django packages (not in a specific order):
 
 ## Documentation 📑
 
-Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough for developers. You can easily find solutions if you get stuck. On top of that, Stack Overflow is flooded with questions & answers related to Django.
+Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough. You can easily find solutions if you get stuck. On top of that, Stack Overflow is filled with questions & answers related to Django.
 
 ## Open Source Community 🗃
 
-Being open source and insanely popular, Django has created a helpful community. I’m assuming you’re aware of the advantages of open source software. Django has the same advantages.
+Being open source and insanely popular, Django has created a helpful community.
 
-So far we’ve seen that Django created a lot of libraries of its own, so it might surprise you that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very useful to develop a testing library.
+So far we’ve seen that Django created a lot of libraries of its own, so it might be surprising that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very useful to develop a testing library.
 
 Django is the perfect balance between performance, architecture, development effort, security and scalability.
 
