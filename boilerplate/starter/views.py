@@ -1,10 +1,19 @@
 from django.shortcuts import render
 
+
 def home(request):
-  return render(request, "index.html", {})
+
+    context = {"active": "home"}
+    return render(request, "index.html", context=context)
+
 
 def about(request):
-    return render(request, "about.html", {})
+
+    context = {"active": "about"}
+    return render(request, "about.html", context=context)
+
 
 def contact(request):
-    return render(request, "contact.html", {})
+
+    context = {"active": "contact"}
+    return render(request, "contact.html", context=context)

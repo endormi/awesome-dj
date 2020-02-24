@@ -9,9 +9,10 @@
     {% block title %}<title>django-bootstrap-boilerplate</title>{% endblock %}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- <link rel="icon" href="" type="image/x-icon" /> -->
+    <link rel="icon" href="{% static 'assets/icon.png' %}" type="image/png" />
     <link rel="stylesheet" href="{% static 'css/style.css' %}" type="text/css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" type='text/css'>
   </head>
   <body>
 
@@ -23,13 +24,13 @@
 
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
+              <li {% if active == 'home' %} class="active" {% endif %}>
                 <a class="nav-link" href="{% url 'home' %}">Home</a>
               </li>
-              <li class="nav-item">
+              <li {% if active == 'about' %} class="active" {% endif %}>
                 <a class="nav-link" href="{% url 'about' %}">About</a>
               </li>
-              <li class="nav-item">
+              <li {% if active == 'contact' %} class="active" {% endif %}>
                 <a class="nav-link" href="{% url 'contact' %}">Contact</a>
               </li>
               <li class="nav-item dropdown">
@@ -81,6 +82,55 @@
       </nav>
          <br>
          <br>
+
+         <footer class="container-fluid text-center bg-dark text-white">
+           <div class="row">
+             <div class="col-md-12 mt-md-0 mt-12 bg-dark">
+               <br>
+               <h5 class="text-uppercase">Django-Bootstrap-Boilerplate</h5>
+             </div>
+           </div>
+           <hr>
+           <div class="row">
+             <div class="col-md-4 mb-md-0 mb-3">
+               <h4>Follow us</h4>
+               <a href="https://github.com/endormi/awesome-dj" class="fa fa-github text-white text-decoration-none" style="font-size: 32px; padding-right: 15px;"></a>
+               <a href="https://twitter.com/_endormi/" class="fa fa-twitter-square text-white text-decoration-none" style="font-size: 32px;"></a>
+             </div>
+             <div class="col-md-3 mb-md-0 mb-3">
+               <h5 class="text-uppercase">Text</h5>
+               Icon used: <a target="_blank" href="https://icons8.com/icons/set/django" class="text-white text-decoration-none">Django icon</a> icon by <a target="_blank" href="https://icons8.com" class="text-white text-decoration-none">Icons8</a>.
+               <p><b>NOTE:</b> <i>If you think about using this icon, you need to include the icon link if you don't have a license.</i></p>
+                 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                 <br>
+             </div>
+             <div class="col-md-2 mb-md-0 mb-4">
+               <h5 class="text-uppercase">Links</h5>
+               <ul class="list-unstyled">
+                 <li><a href="{% url 'home' %}" class="text-light text-decoration-none">Home</a></li>
+                 <li><a href="{% url 'about' %}" class="text-light text-decoration-none">About</a></li>
+                 <li><a href="{% url 'contact' %}" class="text-light text-decoration-none">Contact</a></li>
+               </ul>
+             </div>
+             <div class="col-md-3 mb-md-0 mb-3">
+               <h5 class="text-uppercase">Text</h5>
+               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                 <br>
+             </div>
+           </div>
+           <hr>
+         <div class="container-fluid">
+           <div class="row">
+             <div class="col-md-12 bg-dark">
+               <div class="text-center text-white py-3">Copyright content...</div>
+             </div>
+           </div>
+         </div>
+       </footer>
+
 	   <script src="{% static 'js/main.js' %}"></script>
 	   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
