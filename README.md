@@ -126,7 +126,7 @@ Django is the perfect balance between performance, architecture, development eff
 
 1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated. If it’s outdated, you’ll know because installation won’t work.
 
-2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide. They also allow installing packages without administrator privileges.
+2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide.
 
 3. After you’ve created and activated a virtual environment (you do not need a virtual environment, but it is highly suggested).
 
