@@ -112,7 +112,7 @@ A list of awesome Django packages (not in a specific order):
 
 ## Documentation 📑
 
-Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough. You can easily find solutions if you get stuck. On top of that, Stack Overflow is filled with questions & answers related to Django.
+Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough. You can easily find solutions if you get stuck. On top of that, **Stack Overflow** is filled with questions & answers related to Django.
 
 ## Open Source Community 🗃
 
@@ -124,7 +124,7 @@ Django is the perfect balance between performance, architecture, development eff
 
 ## Installing Django 🌩
 
-1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated. If it’s outdated, you’ll know because installation won’t work.
+1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated.
 
 2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide.
 
@@ -154,4 +154,4 @@ git clone https://github.com/django/django.git
 
 ## Thanks
 
-Thanks to these awesome [contributors](https://github.com/endormi/awesome-dj/blob/master/AUTHORS.md#contributors) for helping with this project.
+Thanks to these awesome [contributors](https://github.com/endormi/awesome-dj/blob/master/AUTHORS.md#contributors) for helping with this repository.
