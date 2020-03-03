@@ -1,4 +1,4 @@
-# Django-Bootstrap-Boilerplate [![Travis (.org) branch](https://img.shields.io/travis/endormi/awesome-dj/travis-test-bp)](https://travis-ci.org/endormi/awesome-dj) [![Django Version](https://img.shields.io/badge/django-3.0-brightgreen.svg?)](https://www.djangoproject.com/)
+# Django-Bootstrap-Boilerplate [![Travis (.org) branch](https://img.shields.io/travis/endormi/awesome-dj/travis-test-bp)](https://travis-ci.org/endormi/awesome-dj)
 
 Boilerplate for Django using Bootstrap **4.3.1**
 
@@ -8,6 +8,12 @@ Boilerplate for Django using Bootstrap **4.3.1**
 
 ## Installation instructions
 
+Install Django:
+
+```sh
+pip install django
+```
+
 Clone this repository:
 
 ```
@@ -15,12 +21,6 @@ https://github.com/endormi/django.git
 ```
 
 > `cd` into boilerplate
-
-Install requirements:
-
-```sh
-pip install -r requirements.txt
-```
 
 Migrate:
 
