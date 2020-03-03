@@ -10,6 +10,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 
 ### Page content:
 
+- [What is Django?](#what-is-django-)
 - [Building Web Applications](#building-web-applications-)
     - [Scalability](#scalability)
     - [Validation](#validation)
@@ -20,6 +21,8 @@ Since newer versions of Python are often faster, have more features, and are bet
 - [Installing Django](#installing-django-)
 - [Articles](#articles)
 - [Thanks](#thanks)
+
+## What is Django?
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 
