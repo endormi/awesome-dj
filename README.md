@@ -10,7 +10,7 @@ Since newer versions of Python are often faster, have more features, and are bet
 
 ### Page content:
 
-- [What is Django?](#what-is-django-)
+- [What is Django?](#what-is-django)
 - [Building Web Applications](#building-web-applications-)
     - [Scalability](#scalability)
     - [Validation](#validation)
