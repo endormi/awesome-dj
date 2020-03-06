@@ -121,7 +121,7 @@ Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is m
 
 Being open source and insanely popular, Django has created a helpful community.
 
-So far we’ve seen that Django created a lot of libraries of its own, so it might be surprising that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very useful to develop a testing library.
+So far we’ve seen that Django created a lot of libraries of its own, so it might be surprising that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very practical to develop a testing library.
 
 Django is the perfect balance between performance, architecture, development effort, security and scalability.
 
