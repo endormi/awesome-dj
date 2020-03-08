@@ -8,7 +8,7 @@ Before making a commit read [contribution guidelines](https://github.com/endormi
 
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
-### Page content:
+### Table of contents:
 
 - [What is Django?](#what-is-django)
 - [Building Web Applications](#building-web-applications-)
@@ -39,8 +39,6 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 - [National Geographic](https://www.nationalgeographic.com/)
 - [Pinterest](https://www.pinterest.com/)
 
-The Django project's stability, performance and community have grown tremendously over the past decade since the framework's creation. Detailed tutorials and good practices are available on the web and in books. The framework continues to add significant new functionality with each release.
-
 **Django's Architecture**
 
 [![django](https://user-images.githubusercontent.com/39559256/54877175-9d379c00-4e23-11e9-9a8e-08477fdb0a19.png)](https://subscription.packtpub.com/book/web_development/9781788831345/1/ch01lvl1sec12/how-does-django-work)
@@ -49,9 +47,8 @@ The Django project's stability, performance and community have grown tremendousl
 
 Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative CRUD (create, read, update and delete) interface that is generated dynamically through introspection and configured via admin models.
 
-Django has adopted Python’s `“batteries included”` approach, the framework has everything necessary to develop a fully fledged application out of the box.
-
-You don’t need to spend hours customizing it to build a simple application or a prototype since all of the essentials are already available. But if you need additional features for a more complex app, there are well over **4,000 packages** for Django to cover profiling, testing, and debugging. The framework also has tool packages for working with cutting-edge technology such as data analysis, AI, and machine learning.
+Django has adopted Python’s `"batteries included"` approach, the framework has everything necessary to develop a fully fledged application without needing to install any packages.
+You don’t need to spend hours customizing it to build a simple application since all of the essentials are already available.
 
 Django's structure mainly consists of:
 
@@ -87,7 +84,7 @@ More on [django security](https://docs.djangoproject.com/en/3.0/topics/security/
 
 ## Packages 📦
 
-Like the Python community in general, the Django community contributes useful packages for use by the wider world. Searching for `“django”` on `PyPI` finds over 4,000 packages available for use. The framework has already included most things you’re going to want.
+If you happen to need more than the Django offers, searching for `"django"` on `PyPI` finds lots of available for use.
 
 A list of awesome Django packages (not in a specific order):
 
@@ -115,19 +112,17 @@ A list of awesome Django packages (not in a specific order):
 
 ## Documentation 📑
 
-Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough. You can easily find solutions if you get stuck. On top of that, **Stack Overflow** is filled with questions & answers related to Django.
+Django’s [official documentation](https://docs.djangoproject.com/en/3.0/) is more than enough. On top of that, **Stack Overflow** is well-stocked with questions & answers related to Django.
 
 ## Open Source Community 🗃
 
 Being open source and insanely popular, Django has created a helpful community.
 
-So far we’ve seen that Django created a lot of libraries of its own, so it might be surprising that it didn’t create any library for testing. It doesn’t mean that Django framework doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library, so it wouldn't be very practical to develop a testing library.
-
-Django is the perfect balance between performance, architecture, development effort, security and scalability.
+Django has created a lot of libraries of its own, but not any for testing. It doesn’t mean that Django doesn’t support testing, it most certainly does. They have a complete section dedicated to [testing](https://docs.djangoproject.com/en/3.0/topics/testing/). Python itself provides a great testing library for Django, so it wouldn't be very practical to develop a testing library.
 
 ## Installing Django 🌩
 
-1. Install pip. The easiest is to use the standalone pip installer. If your distribution already has pip installed, you might need to update it if it’s outdated.
+1. Install pip. The easiest is to use the standalone pip installer. If your system already has pip installed, you might need to update it if it’s outdated.
 
 2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide.
 
