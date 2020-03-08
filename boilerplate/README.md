@@ -4,7 +4,7 @@ Boilerplate for Django using Bootstrap **4.3.1**
 
 > Easy-to-use Boilerplate. Including four **HTML** templates `base.html`, `index.html`, `about.html` and `contact.html`. The db used is `sqlite3`.
 
-> Django [databases](https://docs.djangoproject.com/en/3.0/ref/databases/).
+> Django supports these [databases](https://docs.djangoproject.com/en/3.0/ref/databases/) officially.
 
 ## Installation instructions
 
