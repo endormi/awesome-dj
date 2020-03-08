@@ -84,7 +84,7 @@ More on [django security](https://docs.djangoproject.com/en/3.0/topics/security/
 
 ## Packages 📦
 
-If you happen to need more than the Django offers, searching for `"django"` on `PyPI` finds lots of available for use.
+If you happen to need more than Django offers, searching for `"django"` on `PyPI` finds lots of available for use.
 
 A list of awesome Django packages (not in a specific order):
 
