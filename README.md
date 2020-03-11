@@ -142,6 +142,7 @@ git clone https://github.com/django/django.git
 
 - [Django vs. Flask in 2019: Which Framework to Choose](https://testdriven.io/blog/django-vs-flask/)
 - [Uses of Django](https://www.educba.com/uses-of-django/)
+- [When to choose Django](https://www.netguru.com/blog/when-to-choose-django)
 - [Django Interview Questions](https://career.guru99.com/top-16-django-interview-questions/)
 - [Top 10 Django mistakes](https://www.toptal.com/django/django-top-10-mistakes)
 - [Creating custom template tags in Django](https://www.pythoncircle.com/post/42/creating-custom-template-tags-in-django/)
