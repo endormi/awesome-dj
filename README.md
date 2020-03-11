@@ -76,7 +76,7 @@ By default, Django prevents most common security mistakes:
 
 * [SQL injection protection](https://docs.djangoproject.com/en/3.0/topics/security/#sql-injection-protection) - Django uses built-in ORM, thus there is no risk of SQL injection (raw queries are possible, but by no means something that a beginner would need to use).
 
-* [PBKDF2 password hashing](https://docs.djangoproject.com/en/3.0/topics/auth/passwords/#how-django-stores-passwords) - Django uses the PBKDF2 algorithm with a SHA256 hash, a password stretching mechanism recommended by NIST. It’s quite secure, requiring massive amounts of computing time to break.
+* [PBKDF2 password hashing](https://docs.djangoproject.com/en/3.0/topics/auth/passwords/#how-django-stores-passwords) - Django uses the PBKDF2 algorithm with a SHA256 hash, a password stretching mechanism recommended by NIST. It’s quite secure, requiring massive amounts of computing time to break. Depending on your requirements, you may choose a different algorithm, or even use a custom algorithm to match your specific security situation.
 
 More on [django security](https://docs.djangoproject.com/en/3.0/topics/security/).
 
