@@ -45,10 +45,8 @@ To give you an idea what the capabilities of Django are, here is a list of big c
 
 ## Building web applications ⛏
 
-Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes `"reusability"` and `"pluggability"` of components, less code, rapid development, and the principle of don't repeat yourself. Python is used throughout, even for settings files and data models. Django also provides an optional administrative CRUD (create, read, update and delete) interface that is generated dynamically through introspection and configured via admin models.
-
-Django has adopted Python’s `"batteries included"` approach, the framework has everything necessary to develop a fully fledged application without needing to install any packages.
-You don’t need to spend hours customizing it to build a simple application since all of the essentials are already available.
+Django has adopted Python’s `"batteries included"` approach, the framework has everything necessary to create a fully developed application without needing to install any packages.
+You can start building a simple application instantly without needing to customize it since all of the essentials are already available.
 
 Django's structure mainly consists of:
 
@@ -122,7 +120,7 @@ Django has created a lot of libraries of its own, but not any for testing. It do
 
 ## Installing Django 🌩
 
-1. Install pip. The easiest is to use the standalone pip installer. If your system already has pip installed, you might need to update it if it’s outdated.
+1. Install pip. The easiest is to use the standalone pip installer.
 
 2. Take a look at virtualenv and virtualenvwrapper. These tools provide isolated Python environments, which are more practical than installing packages systemwide.
 
