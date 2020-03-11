@@ -4,8 +4,6 @@ This repository is specifically meant to those who are looking into using Django
 
 **Disclaimer**: I have also included a [bootstrap boilerplate](https://github.com/endormi/django/tree/master/boilerplate) for this project.
 
-Before making a commit read [contribution guidelines](https://github.com/endormi/django/blob/master/CONTRIBUTING.md).
-
 Since newer versions of Python are often faster, have more features, and are better supported, the latest version of Python 3 is recommended.
 
 ### Table of contents:
