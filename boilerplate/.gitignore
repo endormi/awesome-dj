@@ -10,3 +10,4 @@ docs/locale/
 tests/
 *.pyc
 db.sqlite3
+notes.md
