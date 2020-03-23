@@ -1,4 +1,4 @@
-# Django-Bootstrap-Boilerplate [![Travis (.org) branch](https://img.shields.io/travis/endormi/awesome-dj/travis-test-bp)](https://travis-ci.org/endormi/awesome-dj)
+# Django-Bootstrap-Boilerplate
 
 Boilerplate for Django using Bootstrap **4.3.1**
 
