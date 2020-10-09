@@ -105,6 +105,7 @@ A list of awesome Django packages (not in a specific order):
 - [django-extensions](https://django-extensions.readthedocs.io/en/latest/)
 - [django-cors-headers](https://pypi.org/project/django-cors-headers/)
 - [django-sendsms](https://pypi.org/project/django-sendsms/)
+- [django-csp](https://pypi.org/project/django-csp/)
 
 ## Documentation 📑
 
